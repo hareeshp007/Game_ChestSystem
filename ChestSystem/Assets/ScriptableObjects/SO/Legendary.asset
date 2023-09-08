@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea5fa29545cac140982777bbecefe12, type: 3}
+  m_Name: Legendary
+  m_EditorClassIdentifier: 
+  ChestClosedImage: {fileID: 21300000, guid: 28e79ad02ba6b494995bd0ecad78c798, type: 3}
+  ChestOpenImage: {fileID: 21300000, guid: 4c2a10f894ca9bc4b8c639bcc0094d7e, type: 3}
+  CoinsNeeded: 200
+  CoinsMin: 200
+  CoinsMax: 500
+  GemsMin: 80
+  GemsMax: 150
+  Type: 3
+  UnlockDuration: 60
